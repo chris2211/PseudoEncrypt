@@ -2,7 +2,6 @@
 #include <cstdlib>
 #include <cmath>
 #include <climits>
-#include <set>
 #include <vector>
 
 int pseudoEncrypt (int val) {
